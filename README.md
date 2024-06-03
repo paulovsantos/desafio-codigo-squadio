@@ -28,7 +28,7 @@ Analisar as senhas dos usuários e fornecer uma validação de força com base e
 4. A senha deve conter pelo menos um número (0-9).
 5. A senha deve conter pelo menos um caractere especial, como !, @, #, $, %, etc.
 
-#REFERÊNCIAS
+### Referências
 
 [Ordenando listas no Python](https://www.alura.com.br/artigos/ordenando-listas-no-python?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=aud-527303763294:dsa-2276348409543&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=EAIaIQobChMI8MPLvrG9hgMV-l5IAB1nhDH5EAAYASAAEgIiCvD_BwE)
 
