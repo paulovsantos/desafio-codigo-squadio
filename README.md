@@ -16,17 +16,17 @@ Desafio_2
 A primeira entrada consiste em um número inteiro que representa a  quantidade de ativos que o usuário possui. 
 Em seguida, o usuário deverá  informar, em linhas separadas, os tipos (strings) dos respectivos ativos.
 
-1 - Deve exibir a lista de Ativos organizada em ordem alfabética.
-2 - Cada ativo deve ser apresentado em uma linha separada.
+1. Deve exibir a lista de Ativos organizada em ordem alfabética.
+2. Cada ativo deve ser apresentado em uma linha separada.
 
 Desafio_3
 Analisar as senhas dos usuários e fornecer uma validação de força com base em critérios predefinidos.
 
-1 - A senha deve ter no mínimo 8 caracteres.
-2 - A senha deve conter pelo menos uma letra maiúscula (A-Z).
-3 - A senha deve conter pelo menos uma letra minúscula (a-z).
-4 - A senha deve conter pelo menos um número (0-9).
-5 - A senha deve conter pelo menos um caractere especial, como !, @, #, $, %, etc.
+1. A senha deve ter no mínimo 8 caracteres.
+2. A senha deve conter pelo menos uma letra maiúscula (A-Z).
+3. A senha deve conter pelo menos uma letra minúscula (a-z).
+4. A senha deve conter pelo menos um número (0-9).
+5. A senha deve conter pelo menos um caractere especial, como !, @, #, $, %, etc.
 
 #REFERÊNCIAS
 
